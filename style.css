@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+.center {
+  text-align: center;
+}
+.navbar nav {
+  text-align: center;
+  background-color: rgb(12, 119, 233);
+  padding: 30px;
+  span.hightlight {}
+    color: yellow;
+}
+}
+.caption figcaption {
+  font-size: 10px;
+}
+.paragraph <p> {
+  width: 800px;
+}
+#details div {
+  float: left;
+  text-align: center;
+  width: 25%; /* to give each div an equal width */
+  background-color: #cb0b0b;
+}
+
+
+
+
